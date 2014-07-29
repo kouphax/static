@@ -40,3 +40,7 @@ html {
 .paint p {
   font-weight : bold;
 }
+
+.basket {
+  float:right;
+}
