@@ -43,6 +43,7 @@ html {
 
 .basket {
   float:right;
+  margin-right:35px;
 }
 
 .total td {
